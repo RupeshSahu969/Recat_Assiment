@@ -1,0 +1,11 @@
+#navbar-container{
+display:flex;
+position: fixed;
+justify-content: space-around;
+background-color: white;
+color: rgb(56, 66, 209);
+width: 100%;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+height: 30px;
+/* position: relative; */
+}
